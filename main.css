@@ -7,3 +7,10 @@ head{
 	height:100px;
 	background:#00355f
 }
+p{
+    padding: 10px;
+    margin: 0;
+}
+.text{
+    font-family: 'Courier New', Courier, monospace;
+}
